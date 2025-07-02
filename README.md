@@ -9,10 +9,10 @@ Sobre mim:
 
 Formações/Conhecimentos:
 
-- Cursando Bacharelado em Sistemas de Informação na FATEF (2023-2026)
+- Cursando Bacharel em Sistemas de Informação na FATEF (2023-2026)
 - Cursando "Formação Front-end - HTML, CSS, JavaScript, React e Typescript" na Academia Udemy
 - Conhecimento em Versionamento de Código (Git e Github)
-- Conhecimento em metodologias ágeis (Plataforma usada: Asana)
+- Conhecimento em metodologias ágeis (Scrum e Kanban)
 
 Idiomas:
 
